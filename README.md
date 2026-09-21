@@ -39,4 +39,4 @@ La aplicación es demostrativa: no envía datos a un servidor ni realiza desplie
 
 ## Copyright 
 
-Desarrollado por Andres Molina
+Desarrollado por 2 de DAW
