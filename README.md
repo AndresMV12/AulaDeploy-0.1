@@ -88,3 +88,32 @@ Esta documentación facilita que otros desarrolladores
 puedan descargar y ejecutar el proyecto.
 
 La mejora está relacionada con la issue #2.
+
+## Solución de problemas frecuentes
+
+### La aplicación no se abre en el navegador
+
+Si AulaDeploy no se abre correctamente, debemos comprobar
+que estamos utilizando la dirección adecuada para acceder
+a la aplicación.
+
+También podemos intentar actualizar la página o abrirla
+en otro navegador.
+
+### No aparecen los archivos del proyecto
+
+Debemos comprobar que el repositorio se ha clonado
+correctamente y que estamos trabajando en la carpeta
+adecuada.
+
+### Aparecen errores al ejecutar la aplicación
+
+Podemos revisar los mensajes que aparecen en la terminal
+y comprobar que seguimos las instrucciones de ejecución
+indicadas en el README.
+
+### Los cambios no se visualizan
+
+Si modificamos algún archivo y no aparecen los cambios,
+podemos actualizar el navegador y comprobar que los
+archivos se han guardado correctamente.
