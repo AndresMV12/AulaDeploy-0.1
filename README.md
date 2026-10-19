@@ -40,3 +40,80 @@ La aplicación es demostrativa: no envía datos a un servidor ni realiza desplie
 ## Copyright 
 
 Desarrollado por 2 de DAW
+
+## Guía para ejecutar AulaDeploy en local
+
+### 1. Requisitos
+
+Para utilizar AulaDeploy necesitamos:
+
+- Un ordenador con Windows, Linux o macOS.
+- Git instalado para clonar el repositorio.
+- Visual Studio Code u otro editor de código.
+- Un navegador web actualizado.
+
+### 2. Clonar el repositorio
+
+Abrimos una terminal y ejecutamos:
+
+git clone https://github.com/AndresMV12/AulaDeploy-0.1.git
+
+Después entramos en la carpeta del proyecto:
+
+cd AulaDeploy-0.1
+
+### 3. Abrir el proyecto
+
+Abrimos la carpeta descargada en Visual Studio Code:
+
+code .
+
+### 4. Ejecutar la aplicación
+
+Seguimos las instrucciones de ejecución que aparecen
+en este README para iniciar AulaDeploy en local.
+
+### 5. Comprobaciones
+
+Una vez iniciada la aplicación debemos comprobar:
+
+- Que la página se visualiza correctamente.
+- Que los archivos del proyecto están disponibles.
+- Que no aparecen errores durante la ejecución.
+- Que las funciones principales se pueden utilizar.
+
+### 6. Información adicional
+
+Esta documentación facilita que otros desarrolladores
+puedan descargar y ejecutar el proyecto.
+
+La mejora está relacionada con la issue #2.
+
+## Solución de problemas frecuentes
+
+### La aplicación no se abre en el navegador
+
+Si AulaDeploy no se abre correctamente, debemos comprobar
+que estamos utilizando la dirección adecuada para acceder
+a la aplicación.
+
+También podemos intentar actualizar la página o abrirla
+en otro navegador.
+
+### No aparecen los archivos del proyecto
+
+Debemos comprobar que el repositorio se ha clonado
+correctamente y que estamos trabajando en la carpeta
+adecuada.
+
+### Aparecen errores al ejecutar la aplicación
+
+Podemos revisar los mensajes que aparecen en la terminal
+y comprobar que seguimos las instrucciones de ejecución
+indicadas en el README.
+
+### Los cambios no se visualizan
+
+Si modificamos algún archivo y no aparecen los cambios,
+podemos actualizar el navegador y comprobar que los
+archivos se han guardado correctamente.
